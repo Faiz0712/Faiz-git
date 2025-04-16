@@ -1,2 +1,2 @@
 # Faiz-git
-This is just an Demo
+This is just an Demo.
